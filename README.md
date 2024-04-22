@@ -4,6 +4,10 @@ SYCL Parallel STL [![Build Status](https://travis-ci.org/KhronosGroup/SyclParall
 This project features an implementation of the Parallel STL library
 using the Khronos SYCL standard.
 
+**The project is not actively developed anymore and is outdated. It has been
+archived to preserve history, but is deprecated and should not be used
+anymore!**
+
 What is Parallel STL
 -----------------------
 

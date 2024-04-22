@@ -3,7 +3,7 @@ Contributors to the SYCL Parallel STL project
 
 By order of appearance in the commit log:
 
-* Ruyman Reyes, ruyman@codeplay.com
+* Ruyman Reyes
 * Jeremy Wright, jeremy@quiescent.us
 * Andrew Richards, andrew@codeplay.com
 * Antonio Vilches, vilches@uma.es
